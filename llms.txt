@@ -1,0 +1,21 @@
+# Meltemi Travel
+
+> Meltemi Travel is a licensed tour operator in Limassol, Cyprus. It sells all-inclusive European package trips with flights from Larnaca or Paphos, hotels, breakfast and a local guide. Packages are covered by EU Package Travel Directive protection. Prices are in EUR and include VAT.
+
+## Key facts
+- Founded 2016, based in Limassol, Cyprus. Serves Limassol, Nicosia, Larnaca and Paphos.
+- Deposit: 30% to hold seats. Balance due 14 days before departure. Date changes free up to 14 days before departure.
+- Opening hours: Monday to Saturday 09:00 to 20:00 (Cyprus time).
+- Contact: +357 99 000000, hello@example.com
+
+## Trips (per person, from)
+- [Santorini Caldera Escape](https://www.example.com/#tours): 5 days, from EUR 620, best May to October
+- [Amalfi Coast + Capri](https://www.example.com/#tours): 5 days, from EUR 780, best April to June and September
+- [Lisbon + Sintra](https://www.example.com/#tours): 4 days, from EUR 560
+- [Prague + Vienna Rail Trip](https://www.example.com/#tours): 5 days, from EUR 640
+- [Iceland Northern Lights](https://www.example.com/#tours): 5 days, from EUR 1,090, best September to March
+- [Troodos Mountains + Wine Villages](https://www.example.com/#tours): 2 days, from EUR 140
+
+## Answers
+- [Quick answers and trip comparison](https://www.example.com/#guide)
+- [FAQ](https://www.example.com/#faq)

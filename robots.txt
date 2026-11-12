@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+# AI and answer-engine crawlers: allowed so the site can be cited. Change to Disallow to opt out.
+User-agent: GPTBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://www.example.com/sitemap.xml
